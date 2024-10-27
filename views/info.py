@@ -32,7 +32,7 @@ This section models molecular weight variation within polymers and showing a pot
 
 **Interactive Features**:
 - **Number-Average Molecular Weight Slider**: Controlling the average molecular weight allows users to gain insight onto the position of distribution according to the x-axis.
-- **PDI (Polydisperity Index): Varying the PDI allows users to illustrate the spread of distribution which are illustrated by the premise of variability within the chain lengths.
+- **PDI (Polydisperity Index)**: Varying the PDI allows users to illustrate the spread of distribution which are illustrated by the premise of variability within the chain lengths.
 """)
 
 # Feature 3: Polymer Molecular Weight Distribution Heat Map
